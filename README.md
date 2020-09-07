@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at Octarus
 - 🌱 I’m currently learning a lot about the world
 - 👯 I’m looking to collaborate with other coders
