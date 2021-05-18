@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate with other coders
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything you want
-- 📫 How to reach me: Email is good, but some people have sent me snail mail...
+- 📫 How to reach me: Email or Matrix is good.
 - ⚡ Fun fact: I am afraid of dandelions
