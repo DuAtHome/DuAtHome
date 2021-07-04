@@ -4,7 +4,7 @@ Feel free to take a look around my profile and check out my code and development
 
 ## Contact Me
 Listed in order of importance to me.<br>
-I don't use platforms marked with (Inactive) but keep them around because I like archiving stuff :)
+I don't use platforms marked with (Inactive) but keep them around because I like archiving my stuff :)
 
 * [Matrix](https://matrix.to/#/@ducheng:matrix.org)
 * <a href = "mailto:ducheng0@protonmail.com">Email</a>
