@@ -11,3 +11,4 @@ I don't use platforms marked with (Inactive) but keep them around because I like
 * [CTZN](https://ctznry.com/ducheng@ctzn.one)
 * [Minds](https://www.minds.com/ducheng/) (Inactive)
 * [Instagram](https://instagram.com/du311310) (Inactive)
+* [Twitter](https://twitter.com/ducheng0) (Inactive)
